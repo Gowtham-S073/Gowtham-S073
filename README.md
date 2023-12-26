@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gowthamshanmugavel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowthamshanmugavel/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gowthamshanmugavel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowthamshanmugavel/" height="30" width="40" /></a>
 <a href="https://instagram.com/rogersrockk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogersrockk" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham-s073&show_icons=true&locale=en&layout=compact" alt="gowtham-s073" /></p>
 
-<p>&nbsp;<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-s073&" alt="gowtham-s073" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-s073&" alt="gowtham-s073" /></p>
