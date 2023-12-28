@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A Enthusiastic Fullstack developer from India</h3>
+<h3 align="center">An Enthusiastic Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-s073&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-s073" /> </p>
 
